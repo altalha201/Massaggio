@@ -53,9 +53,6 @@
     <!-- header close -->
 
     <!-- Banner -->
-
-
-
     <main>
         <div class="banner-section">
             <div class="container">

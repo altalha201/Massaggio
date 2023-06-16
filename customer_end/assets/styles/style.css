@@ -187,7 +187,7 @@ body{
 
 /* ---------------------form--------------------- */
 .form{
-    background-image: url(../images/form.png);
+    background-image: url(../images/form.jpg);
     height: 700px;
     width: 100%;
     background-repeat: no-repeat;
@@ -195,11 +195,11 @@ body{
 }
 
 .form-overlay{
-    height: 96%;
+    height: 90%;
     width: 100%;
-    background:#2C374B;
+    background:#E12987;
     position: absolute;
-    opacity: .8;
+    opacity: .3;
 }
 
 .text-contact h2{
